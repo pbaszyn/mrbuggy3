@@ -56,3 +56,9 @@ Na stronie 10 w opisie “Część kliencka” znajduje się opis eksportu danyc
 ***Jest :*** “- pozwala na zaraportowanie defektu aktualnie wyświetlanego w oknie “Zadania””. 
 Okno zadanie wyświetla aktualne zadanie w którym ukryty jest defekt a nie sam defekt. 
 ***Powinno być :*** “- pozwala na zaraportowanie defektu znalezionego w aktualnie wyświetlanym zadaniu w oknie “Zadania””
+
+**Id błędu :** 9
+**Tytuł defektu :** Błąd w opisie przycisku “Zaraportuj defekt”
+**Numer strony na której zlokalizowany jest błąd :** 10
+**Akapit :** “Okno aplikacji powinno dzielić się na dwie części - okno “Zadania” oraz “
+**Opis defektu :** W opisie funkcjonalności znajduje się zdanie - “Funkcja ta jest dostępna we wszystkich trybach pracy aplikacji.” - funkcja ta powinna być dostępna w dwóch z trzech trybów pracy aplikacji - w trybie kapitana drużyny oraz w trybie zawodnika. Funkcja nie powinna być dostępna w trybie członka drużyny.
