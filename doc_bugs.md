@@ -47,3 +47,12 @@ Na stronie 10 w opisie “Część kliencka” znajduje się opis eksportu danyc
 **Numer strony na której zlokalizowany jest błąd :** 10
 **Akapit :** “Okno aplikacji powinno dzielić się na dwie części - okno “Zadania” oraz "
 **Opis defektu :** W punkcie “Przyciski nawigacyjne” jest następująca informacja - “Przyciski nawigacyjne - “Następne” i “Poprzednie” umożliwiają przeniesienie się do odpowiednio bieżącego, następnego i poprzedniego zadania.”. Prawidłowy opis to “Przyciski nawigacyjne - “Następne” i “Poprzednie” umożliwiają przeniesienie się do odpowiednio następnego i poprzedniego zadania.”
+
+**Id błędu :** 8
+**Tytuł defektu :** Błąd w opisie przycisku “Zaraportuj defekt” 
+**Numer strony na której zlokalizowany jest błąd :** 10
+**Akapit :** “Okno aplikacji powinno dzielić się na dwie części - okno “Zadania” oraz "
+**Opis defektu :** W punkcie “Przycisk “Zaraportuj defekt”” jest błąd w opisie - 
+***Jest :*** “- pozwala na zaraportowanie defektu aktualnie wyświetlanego w oknie “Zadania””. 
+Okno zadanie wyświetla aktualne zadanie w którym ukryty jest defekt a nie sam defekt. 
+***Powinno być :*** “- pozwala na zaraportowanie defektu znalezionego w aktualnie wyświetlanym zadaniu w oknie “Zadania””
