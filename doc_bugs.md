@@ -62,3 +62,9 @@ Okno zadanie wyświetla aktualne zadanie w którym ukryty jest defekt a nie sam 
 **Numer strony na której zlokalizowany jest błąd :** 10
 **Akapit :** “Okno aplikacji powinno dzielić się na dwie części - okno “Zadania” oraz “
 **Opis defektu :** W opisie funkcjonalności znajduje się zdanie - “Funkcja ta jest dostępna we wszystkich trybach pracy aplikacji.” - funkcja ta powinna być dostępna w dwóch z trzech trybów pracy aplikacji - w trybie kapitana drużyny oraz w trybie zawodnika. Funkcja nie powinna być dostępna w trybie członka drużyny.
+
+**Id błędu :** 10
+**Tytuł defektu :** Błąd w rysunku 1 - Schemat interfejsu użytkownika części klienckiej
+**Numer strony na której zlokalizowany jest błąd :** 11
+**Akapit :** “Okno aplikacji powinno dzielić się na dwie części - okno “Zadania” oraz “
+**Opis defektu :**  Na rysunku znajduje się przycisk z opisem “Znalazłem defekt” podczas gdy w treści dokumentu jest mowa o przycisku z opisem “Zaraportuj defekt”
