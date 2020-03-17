@@ -27,3 +27,11 @@
 **Akapit :** strona 7 - “Dane z części klienckiej dostarczane są do części serwerowej w postaci pliku tekstowego:”
 **Opis defektu :** W opisie na stronie 8 jest mowa o opisie eksportu i importu : “W przypadku braku połączenia sieciowego - za pomocą funkcji eksportu z części klienckiej i importu w części serwerowej. Opis tej funkcjonalności zostanie przedstawiony w dalszej części”
 Na stronie 10 w opisie “Część kliencka” znajduje się opis eksportu danych do pliku binarnego. W dokumencie brakuje opisu funkcjonalności importu danych z pliku. Opis powinien znajdować się w sekcji “6.2 Część serwerowa“
+
+**Id błędu :** 5
+**Tytuł defektu :** “Literówka w słowie “zadanie””
+**Numer strony na której zlokalizowany jest błąd :** 8
+**Akapit :** “W aplikacji dostępnych ma być nie mniej niż 15 zadań (problemów).”
+**Opis defektu :** 
+***Jest :*** “W każdym zdaniu ma być dokładnie jeden defekt. Defekty te mogą należeć”
+***Powinno być :*** “W każdym zadaniu ma być dokładnie jeden defekt. Defekty te mogą należeć”
