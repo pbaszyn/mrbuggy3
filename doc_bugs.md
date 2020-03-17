@@ -91,4 +91,4 @@ Okno zadanie wyświetla aktualne zadanie w którym ukryty jest defekt a nie sam 
 **Tytuł defektu :** brak opisu instalacji części serwerowej  
 **Numer strony na której zlokalizowany jest błąd :** 13  
 **Akapit :** Punkt 8 “Nie jest wymagany instalator aplikacji.“  
-**Opis defektu :** W podpunkcie jest nast. Informacja : “Nie jest wymagany instalator aplikacji. MrBuggy 3 ma być aplikacją przenośną, która ma być dostarczona w postaci archiwum “zip”. Rozpakowane archiwum musi zawierać plik wykonawczy, który uruchamia aplikację oraz wszystkie niezbędne biblioteki i zasoby.” - w opisie brak informacji o sposobie instalacji części serwerowej.
+**Opis defektu :** W podpunkcie jest nast. Informacja : “Nie jest wymagany instalator aplikacji. MrBuggy 3 ma być aplikacją przenośną, która ma być dostarczona w postaci archiwum “zip”. Rozpakowane archiwum musi zawierać plik wykonawczy, który uruchamia aplikację oraz wszystkie niezbędne biblioteki i zasoby.” - w opisie brak informacji o sposobie instalacji części serwerowej.  
