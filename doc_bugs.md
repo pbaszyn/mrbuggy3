@@ -74,3 +74,9 @@ Okno zadanie wyświetla aktualne zadanie w którym ukryty jest defekt a nie sam 
 **Numer strony na której zlokalizowany jest błąd :** 11
 **Akapit :** Punkt 6.2, “Dostęp do części serwerowej może być zrealizowany poprzez linię ”
 **Opis defektu :** W punkcie 4 dokumentu jest mowa o braku określenia języka programowania w którym ma zostać stworzona aplikacja, podczas gdy w punkcie 6.2 jest mowa iż aplikacja serwerowa ma zostać napisana w języku Java7
+
+**Id błędu :** 12
+**Tytuł defektu :** unikalność loginów aplikacji klienckiej
+**Numer strony na której zlokalizowany jest błąd :** 12
+**Akapit :** Punkt 7.2 “ loginy muszą być indywidualne … “
+**Opis defektu :** W podpunkcie jest nast. Informacja : “loginy muszą być indywidualne dla każdego użytkownika części serwerowej aplikacji” - nie ma informacji o loginach użytkowników aplikacji klienckiej - te loginy również powinny być unikatowe.
