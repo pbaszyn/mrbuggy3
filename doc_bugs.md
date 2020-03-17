@@ -20,3 +20,10 @@
 **Numer strony na której zlokalizowany jest błąd :** 6 i 14
 **Akapit :** strona 6 - “Wymagane są cztery wersje aplikacji klienckiej:”, strona 13 - “Opis zadań zamieszczonych w tej wersji:”
 **Opis defektu :** W opisie wersji demonstracyjnej jest informacja o tym, że aplikacja powinna zawierać jedno zadanie testowe, opisane poniżej. W opisie zadań testowych w demonstracyjnej wersji aplikacji ( strona 14) znajdują się dwa zadania zamiast jednego.
+
+**Id błędu :** 4
+**Tytuł defektu :** “Brak opisu funkcjonalności importu pliku na serwer” 
+**Numer strony na której zlokalizowany jest błąd :** 8
+**Akapit :** strona 7 - “Dane z części klienckiej dostarczane są do części serwerowej w postaci pliku tekstowego:”
+**Opis defektu :** W opisie na stronie 8 jest mowa o opisie eksportu i importu : “W przypadku braku połączenia sieciowego - za pomocą funkcji eksportu z części klienckiej i importu w części serwerowej. Opis tej funkcjonalności zostanie przedstawiony w dalszej części”
+Na stronie 10 w opisie “Część kliencka” znajduje się opis eksportu danych do pliku binarnego. W dokumencie brakuje opisu funkcjonalności importu danych z pliku. Opis powinien znajdować się w sekcji “6.2 Część serwerowa“
