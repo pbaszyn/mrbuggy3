@@ -68,3 +68,9 @@ Okno zadanie wyświetla aktualne zadanie w którym ukryty jest defekt a nie sam 
 **Numer strony na której zlokalizowany jest błąd :** 11
 **Akapit :** “Okno aplikacji powinno dzielić się na dwie części - okno “Zadania” oraz “
 **Opis defektu :**  Na rysunku znajduje się przycisk z opisem “Znalazłem defekt” podczas gdy w treści dokumentu jest mowa o przycisku z opisem “Zaraportuj defekt”
+
+**Id błędu :** 11
+**Tytuł defektu :** Ograniczenie języka oprogramowania serwera do języka Java7
+**Numer strony na której zlokalizowany jest błąd :** 11
+**Akapit :** Punkt 6.2, “Dostęp do części serwerowej może być zrealizowany poprzez linię ”
+**Opis defektu :** W punkcie 4 dokumentu jest mowa o braku określenia języka programowania w którym ma zostać stworzona aplikacja, podczas gdy w punkcie 6.2 jest mowa iż aplikacja serwerowa ma zostać napisana w języku Java7
