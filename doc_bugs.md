@@ -86,3 +86,9 @@ Okno zadanie wyświetla aktualne zadanie w którym ukryty jest defekt a nie sam 
 **Numer strony na której zlokalizowany jest błąd :** 12
 **Akapit :** Punkt 7.2 “ login musi składać się z 2 do 8 znaków i zawierać przynajmniej jedną ...“
 **Opis defektu :** W podpunkcie jest nast. Informacja : “login musi składać się z 2 do 8 znaków i zawierać przynajmniej jedną małą literę, jedną wielką literę, jedną cyfrę i jeden znak specjalny” - aby to wymaganie zostało spełnione login powinien składać się z przynajmniej 4 znaków.
+
+**Id błędu :** 14
+**Tytuł defektu :** brak opisu instalacji części serwerowej
+**Numer strony na której zlokalizowany jest błąd :** 13
+**Akapit :** Punkt 8 “Nie jest wymagany instalator aplikacji.“
+**Opis defektu :** W podpunkcie jest nast. Informacja : “Nie jest wymagany instalator aplikacji. MrBuggy 3 ma być aplikacją przenośną, która ma być dostarczona w postaci archiwum “zip”. Rozpakowane archiwum musi zawierać plik wykonawczy, który uruchamia aplikację oraz wszystkie niezbędne biblioteki i zasoby.” - w opisie brak informacji o sposobie instalacji części serwerowej.
