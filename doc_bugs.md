@@ -80,3 +80,9 @@ Okno zadanie wyświetla aktualne zadanie w którym ukryty jest defekt a nie sam 
 **Numer strony na której zlokalizowany jest błąd :** 12
 **Akapit :** Punkt 7.2 “ loginy muszą być indywidualne … “
 **Opis defektu :** W podpunkcie jest nast. Informacja : “loginy muszą być indywidualne dla każdego użytkownika części serwerowej aplikacji” - nie ma informacji o loginach użytkowników aplikacji klienckiej - te loginy również powinny być unikatowe.
+
+**Id błędu :** 13
+**Tytuł defektu :** błędny format loginu
+**Numer strony na której zlokalizowany jest błąd :** 12
+**Akapit :** Punkt 7.2 “ login musi składać się z 2 do 8 znaków i zawierać przynajmniej jedną ...“
+**Opis defektu :** W podpunkcie jest nast. Informacja : “login musi składać się z 2 do 8 znaków i zawierać przynajmniej jedną małą literę, jedną wielką literę, jedną cyfrę i jeden znak specjalny” - aby to wymaganie zostało spełnione login powinien składać się z przynajmniej 4 znaków.
