@@ -26,6 +26,6 @@ User name: *zbyszek*\
 Password: *Zbyszek1*\
 Password1: *Zbyszek2, Zbyszek11*\
 First name: *Zbyszek*\
-Last name: *Kowalski*\
+Last name: *Kowalski*
 
 ### Steps / Action / Expected Result
