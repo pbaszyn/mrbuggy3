@@ -63,7 +63,8 @@ Na stronie 10 w opisie *“Część kliencka”* znajduje się opis eksportu dan
 ***Tytuł defektu :*** Błąd w opisie przycisków nawigacyjnych\
 ***Numer strony na której zlokalizowany jest błąd :*** 10\
 ***Akapit :*** *“Okno aplikacji powinno dzielić się na dwie części - okno “Zadania” oraz “”*\
-***Opis defektu :*** W punkcie *“Przyciski nawigacyjne”* jest następująca informacja - *“Przyciski nawigacyjne - “Następne” i “Poprzednie” umożliwiają przeniesienie się do odpowiednio bieżącego, następnego i poprzedniego zadania.”.*\ ***Prawidłowy opis :*** *“Przyciski nawigacyjne - “Następne” i “Poprzednie” umożliwiają przeniesienie się do odpowiednio następnego i poprzedniego zadania.”*
+***Opis defektu :*** W punkcie *“Przyciski nawigacyjne”* jest następująca informacja - *“Przyciski nawigacyjne - “Następne” i “Poprzednie” umożliwiają przeniesienie się do odpowiednio bieżącego, następnego i poprzedniego zadania.”.* \
+***Prawidłowy opis :*** *“Przyciski nawigacyjne - “Następne” i “Poprzednie” umożliwiają przeniesienie się do odpowiednio następnego i poprzedniego zadania.”*
 
 #### Id błędu : 8
 
