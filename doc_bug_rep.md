@@ -32,7 +32,7 @@
 ***Akapit :*** strona 6 - *“Wymagane są cztery wersje aplikacji klienckiej:”*, strona 13 - *“Opis zadań zamieszczonych w tej wersji:”*\
 ***Opis defektu :*** W opisie wersji demonstracyjnej jest informacja o tym, że aplikacja powinna zawierać jedno zadanie testowe, opisane poniżej. W opisie zadań testowych w demonstracyjnej wersji aplikacji ( strona 14) znajdują się dwa zadania zamiast jednego.
 
-#### Id błędu :4
+#### Id błędu : 4
 
 ***Tytuł defektu :*** *“Brak opisu funkcjonalności importu pliku na serwer”*\
 ***Numer strony na której zlokalizowany jest błąd :*** 8\
