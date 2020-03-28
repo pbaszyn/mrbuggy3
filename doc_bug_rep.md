@@ -42,6 +42,7 @@ Last name: *Kowalski*
 
 
 ####Id błędu : 1
+
 ***Tytuł defektu :*** “Błędna ilość aplikacji”\
 ***Numer strony na której zlokalizowany jest błąd :*** 6\
 ***Akapit :*** “Wymagane są cztery wersje aplikacji klienckiej: ”\
