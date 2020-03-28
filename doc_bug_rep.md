@@ -54,7 +54,9 @@ Na stronie 10 w opisie *“Część kliencka”* znajduje się opis eksportu dan
 ***Tytuł defektu :*** Błąd w opisie pola *“Czas”*\
 ***Numer strony na której zlokalizowany jest błąd :*** 10\
 ***Akapit :*** *“Okno aplikacji powinno dzielić się na dwie części - okno “Zadania” oraz “”*\
-***Opis defektu :*** W punkcie *“Pole “Czas””* jest błąd w opisie formatu - z opisu ( gg:mm:ss ) formatu wynika, że pole powinno składać się z trzech elementów - godziny, minut, sekund, podczas gdy w dalszej części opisu pola pojawia się informacja o milisekundach.
+***Opis defektu :*** W punkcie *“Pole “Czas””* jest błąd w opisie formatu - z opisu ( gg:mm:ss ) formatu wynika, że pole powinno składać się z trzech elementów - godziny, minut, sekund, podczas gdy w dalszej części opisu pola pojawia się informacja o milisekundach.\
+***Jest :*** *"( gg:mm:ss )"*\
+***Powinno być :*** *( gg:mm:ss.fff )*
 
 #### Id błędu : 7
 
