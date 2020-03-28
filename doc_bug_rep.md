@@ -113,10 +113,3 @@ Na stronie 10 w opisie *“Część kliencka”* znajduje się opis eksportu dan
 ***Numer strony na której zlokalizowany jest błąd :*** 13\
 ***Akapit :*** Punkt 8 *“Nie jest wymagany instalator aplikacji.“*\
 ***Opis defektu :*** W podpunkcie jest nast. Informacja : *“Nie jest wymagany instalator aplikacji. MrBuggy 3 ma być aplikacją przenośną, która ma być dostarczona w postaci archiwum “zip”. Rozpakowane archiwum musi zawierać plik wykonawczy, który uruchamia aplikację oraz wszystkie niezbędne biblioteki i zasoby.”* - w opisie brak informacji o sposobie instalacji części serwerowej.
-
-#### Id błędu : 15
-
-***Tytuł defektu :*** Brak informacji o sposobie komunikacji między aplikacją kliencką a serwerem\
-***Numer strony na której zlokalizowany jest błąd :*** \
-***Akapit :*** \
-***Opis defektu :*** W dokumentacji brakuje opisu sposobu komunikacji między serwerem a aplikacją kliencką.
