@@ -1,4 +1,4 @@
-# MrBuggy3 zadanie #1
+# MrBuggy3 zadanie #1, #3 
 ****
 ### Created by:
 
@@ -6,7 +6,7 @@
 *przemo_@_baszynscy.pl*
 
 ### Title / no
-***MrBuggy 3, zadanie #1, TC_2***
+***MrBuggy 3, zadanie #1, #3 TC_2***
 
 ### Description
 
