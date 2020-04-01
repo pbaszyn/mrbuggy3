@@ -1,4 +1,4 @@
-# MrBuggy3 zadanie #1
+# MrBuggy3 zadanie #1, #3 
 ****
 ### Created by:
 
@@ -6,7 +6,7 @@
 *przemo_@_baszynscy.pl*
 
 ### Title / no
-***MrBuggy 3, zadanie #1, TC_1***
+***MrBuggy 3, zadanie #1, #3 TC_1***
 
 ### Description
 
@@ -22,10 +22,13 @@ New user
 
 ### Test Data
 
-User name: *zbyszek*\
-Password: *Zbyszek1*\
-Password1: *Zbyszek2, Zbyszek11*\
-First name: *Zbyszek*\
-Last name: *Kowalski*
+Nazwa użytkownika: *zbyszek*\
+Hasło: *Zbyszek1*\
+Powtórz hasło: *Zbyszek2*\
+Imię: *Zbyszek*\
+Nazwisko: *Kowalski*
 
 ### Steps / Action / Expected Result
+
+1. Fill the form fields with test data.
+2. The form should display a message - "passwords are different".
